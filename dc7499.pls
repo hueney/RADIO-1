@@ -1,5 +1,5 @@
 [playlist]
-File1=http://185.219.82.235/DC7499
+File1=http://185.224.133.141/DC7499
 Length1=-1
 
 NumberOfEntries=1

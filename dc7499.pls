@@ -1,5 +1,5 @@
 [playlist]
-File1=http://85.119.144.249:8020/playlist.mp3?1535034857
+File1=http://212.86.109.178:80/trance
 Length1=-1
 
 NumberOfEntries=1
